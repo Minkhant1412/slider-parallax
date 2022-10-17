@@ -1,6 +1,4 @@
-// https://bytewebster.com/
-// https://bytewebster.com/
-// https://bytewebster.com/
+
 (function () {
   'use strict';
 
